@@ -63,7 +63,7 @@ git remote add origin https://github.com/Ashok-kumar140/Assignment1.git
 ```
 ## Fork a repository on GitHub and clone it to your local machine.
 ```bash 
-git clone https://github.com/ayushman-s-rathore/Javascript-Snake-Game.git
+git clone https://github.com/Ashok-kumar140/Weather-Application.git
 ```
 ## Create a new branch on your fork, make changes, and open a pull request to the original repository.
 ![alt text](<Screenshot 2024-06-25 at 10.53.23 PM.png>)
